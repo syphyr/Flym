@@ -3,7 +3,7 @@
     <dimen name="nav_drawer_width">304dp</dimen>
 
     <!-- Container Sheet -->
-    <dimen name="container_max_width">420dp</dimen>
+    <dimen name="container_max_width">396dp</dimen>
     <dimen name="container_horizontal_padding_end">0dp</dimen>
     <dimen name="container_details_top_margin">0dp</dimen>
 
